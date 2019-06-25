@@ -1,6 +1,7 @@
 #################
 # HIV simulation
 # Citation: LeVasseur MT, Goldstein ND, Tabb LP, Olivieri-Mui BL, Welles SL. The Effect of PrEP on HIV Incidence Among Men Who Have Sex With Men in the Context of Condom Use, Treatment as Prevention, and Seroadaptive Practices. Manuscript in preparation.
+# Note: Simulation dataset may be downloaded from: https://drive.google.com/open?id=1pCV3OMhfpIQcwDIuC1oIIIYrC1OuMeDz
 # 8/22/16 -- Michael LeVasseur and Neal Goldstein
 #################
 
